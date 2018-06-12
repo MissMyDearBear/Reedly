@@ -9,7 +9,6 @@ import com.raizlabs.android.dbflow.config.FlowConfig;
 import com.raizlabs.android.dbflow.config.FlowManager;
 
 import javax.inject.Inject;
-
 import oxim.digital.reedly.BuildConfig;
 import oxim.digital.reedly.dagger.ComponentFactory;
 import oxim.digital.reedly.domain.interactor.feed.update.EnableBackgroundFeedUpdatesUseCase;
